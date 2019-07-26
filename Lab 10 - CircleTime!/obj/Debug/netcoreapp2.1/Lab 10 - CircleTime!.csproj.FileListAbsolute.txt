@@ -1,0 +1,11 @@
+C:\Users\Jense\source\repos\Lab 10 - CircleTime!\Lab 10 - CircleTime!\bin\Debug\netcoreapp2.1\Lab 10 - CircleTime!.deps.json
+C:\Users\Jense\source\repos\Lab 10 - CircleTime!\Lab 10 - CircleTime!\bin\Debug\netcoreapp2.1\Lab 10 - CircleTime!.runtimeconfig.json
+C:\Users\Jense\source\repos\Lab 10 - CircleTime!\Lab 10 - CircleTime!\bin\Debug\netcoreapp2.1\Lab 10 - CircleTime!.runtimeconfig.dev.json
+C:\Users\Jense\source\repos\Lab 10 - CircleTime!\Lab 10 - CircleTime!\bin\Debug\netcoreapp2.1\Lab 10 - CircleTime!.dll
+C:\Users\Jense\source\repos\Lab 10 - CircleTime!\Lab 10 - CircleTime!\bin\Debug\netcoreapp2.1\Lab 10 - CircleTime!.pdb
+C:\Users\Jense\source\repos\Lab 10 - CircleTime!\Lab 10 - CircleTime!\obj\Debug\netcoreapp2.1\Lab 10 - CircleTime!.csprojAssemblyReference.cache
+C:\Users\Jense\source\repos\Lab 10 - CircleTime!\Lab 10 - CircleTime!\obj\Debug\netcoreapp2.1\Lab 10 - CircleTime!.csproj.CoreCompileInputs.cache
+C:\Users\Jense\source\repos\Lab 10 - CircleTime!\Lab 10 - CircleTime!\obj\Debug\netcoreapp2.1\Lab 10 - CircleTime!.AssemblyInfoInputs.cache
+C:\Users\Jense\source\repos\Lab 10 - CircleTime!\Lab 10 - CircleTime!\obj\Debug\netcoreapp2.1\Lab 10 - CircleTime!.AssemblyInfo.cs
+C:\Users\Jense\source\repos\Lab 10 - CircleTime!\Lab 10 - CircleTime!\obj\Debug\netcoreapp2.1\Lab 10 - CircleTime!.dll
+C:\Users\Jense\source\repos\Lab 10 - CircleTime!\Lab 10 - CircleTime!\obj\Debug\netcoreapp2.1\Lab 10 - CircleTime!.pdb
